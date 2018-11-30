@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Welcome everyone!
+:thumbsup:
 Use the left arrow to go back!
